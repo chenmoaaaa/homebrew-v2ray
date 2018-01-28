@@ -18,4 +18,4 @@ script:
 after_success:
   - cd homebrew-v2ray
   - git commit -am "Travis Automated Update Version $ver"
-  - git push --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+  - git push --quiet "https://${GH_TOKEN}@github.com/Voleking/homebrew-v2ray.git" master:master
