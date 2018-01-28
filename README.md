@@ -1,4 +1,4 @@
-# homebrew-v2ray
+# Homebrew-v2ray
 [![Build Status](https://travis-ci.org/Voleking/homebrew-v2ray.svg?branch=master)](https://travis-ci.org/Voleking/homebrew-v2ray)
 
 Homebrew tap for [v2ray-core](https://github.com/v2ray/v2ray-core).
